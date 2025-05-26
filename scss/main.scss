@@ -1,5 +1,18 @@
 @import url("/node_modules/bootstrap-icons/font/bootstrap-icons.css");
 @import 'custom';
-footer{
-    color: green !important;
+
+html {
+    position:relative;
+    min-height: 100%;
+}
+
+main {
+    margin-bottom: 250px; // Space for footer
+}
+
+footer.footer {
+    padding: 15px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
