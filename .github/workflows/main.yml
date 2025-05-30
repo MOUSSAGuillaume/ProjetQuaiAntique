@@ -17,6 +17,7 @@ jobs:
         server-dir: /www/
         protocol: ftps
         passive: true
+        security: strict
         exclude: |
           **/.git*
           **/.git*/**
