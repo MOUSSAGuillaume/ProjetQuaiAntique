@@ -2,5 +2,23 @@
   "dependencies": {
     "bootstrap": "^5.3.6",
     "bootstrap-icons": "^1.13.1"
-  }
+  },
+  "name": "projetquaiantiquefront",
+  "version": "1.0.0",
+  "description": "Ce site est un site vitrine pour le restaurant Quai Antique",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MOUSSAGuillaume/ProjetQuaiAntique.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MOUSSAGuillaume/ProjetQuaiAntique/issues"
+  },
+  "homepage": "https://github.com/MOUSSAGuillaume/ProjetQuaiAntique#readme"
 }
